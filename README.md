@@ -6,8 +6,7 @@
 [![Unstable](https://poser.pugx.org/CodeMommy/ImagePHP/v/unstable?format=flat-square)](https://packagist.org/packages/CodeMommy/ImagePHP)
 [![composer.lock Available](https://poser.pugx.org/CodeMommy/ImagePHP/composerlock?format=flat-square)](https://packagist.org/packages/CodeMommy/ImagePHP)
 
-
-> CodeMommy ImagePHP is a image helper for web development.
+> Operate images
 
 Visit [CodeMommy Website](http://www.codemommy.com) or [Packagist](https://packagist.org/packages/CodeMommy/ImagePHP) to get more information.
 

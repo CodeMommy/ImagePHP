@@ -1,7 +1,7 @@
 {
   "name": "codemommy/imagephp",
   "version": "0.0.1",
-  "description": "CodeMommy ImagePHP is a image helper for web development.",
+  "description": "Operate images",
   "keywords": [
     "CodeMommy",
     "ImagePHP",
